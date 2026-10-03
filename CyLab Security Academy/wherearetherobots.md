@@ -1,6 +1,6 @@
 # where are the robots challenge
 
-Objectives: Can you find the Robots?
+Objective: Can you find the Robots?
 
 How-to-Solve:
 1. Click the 'Launch instance' button. The new instance will be create and new link like this ( http://chatelaine.cylabacademy.net:40392 ) will appear then click the link. (Please note that the urls may vary for each user, depending on how CyLab generates the URL.) 
